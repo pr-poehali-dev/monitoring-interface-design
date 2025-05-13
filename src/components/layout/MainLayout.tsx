@@ -2,7 +2,7 @@
 import React from 'react';
 import { SidebarProvider, Sidebar, SidebarHeader, SidebarContent, SidebarMenu, SidebarMenuItem, SidebarMenuButton, SidebarFooter, SidebarInset } from "@/components/ui/sidebar";
 import { Button } from "@/components/ui/button";
-import { User, LayoutDashboard, Settings, Bell, FileBarChart, PieChart, Users, Moon, Sun, LogOut } from "lucide-react";
+import { LayoutDashboard, Settings, Bell, FileBarChart, PieChart, Users, Moon, Sun, LogOut } from "lucide-react";
 import Icon from "@/components/ui/icon";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
